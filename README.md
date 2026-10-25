@@ -2,7 +2,7 @@
 
 One-page site for the Bermuda Buddy app: a short description, the privacy policy, and support. It is a single static HTML file with no analytics, trackers, cookies, or external fonts or scripts.
 
-The privacy policy date stays `Effective: [publish date]` until the site is published.
+The privacy policy is effective October 25, 2026.
 
 GitHub Pages is not enabled yet. After Pages is turned on for the `main` branch at the repository root, the site will be at:
 
